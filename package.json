@@ -21,9 +21,10 @@
   },
   "homepage": "https://github.com/plaidev/pug-to-html#readme",
   "dependencies": {
+    "acorn": "^6.4.2",
     "chalk": "^2.4.1",
     "jade": "^1.11.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.2",
     "pug-walk": "^1.1.7"
   },
   "devDependencies": {
@@ -33,7 +34,7 @@
     "eslint-plugin-prettier": "3.0.0",
     "eslint-plugin-promise": "4.0.1",
     "eslint-plugin-unicorn": "6.0.1",
-    "mocha": "^6.1.4",
+    "mocha": "^6.2.3",
     "prettier": "1.14.3"
   }
 }
